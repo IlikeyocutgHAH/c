@@ -1,0 +1,33 @@
+{
+
+"FreeRobux": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+},
+
+"Modded": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+},
+
+"TooRichForU": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+},
+
+"DonatePls": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+},
+
+"ImInSpace!": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+}
+
+}
